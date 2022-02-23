@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>test title deploy</title>
 </head>
 <body>
 DevSecOPs  <a href="login">Login Here</a>
